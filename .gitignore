@@ -1,3 +1,6 @@
+*.apk
+/EnglishDiscoveries_base.apk
+EnglishDiscoveries_base.apk
 target/
 pom.xml.tag
 pom.xml.releaseBackup

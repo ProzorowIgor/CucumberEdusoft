@@ -9,7 +9,7 @@ public class HandleSSLCertificate {
 
         WebDriver webdriver = new ChromeDriver(options);
         webdriver.get("www.google.com");
-        System.out.println("title of page: "+webdriver.getTitle());
+        System.out.println("This is the title of page: "+webdriver.getTitle());
         webdriver.quit();
     }
 }
